@@ -1,7 +1,7 @@
 # LMNx9 web2app
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LMNx9-JOHNY/web2app/refs/heads/main/app_release.png" alt="LMNx9 Web2App" width="280">
+  <img src="https://github.com/LMNx9-JOHNY/web2app/raw/refs/heads/main/app_release.png" alt="LMNx9 Web2App" width="280">
 </p>
 
 <p align="center">
